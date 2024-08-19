@@ -1,7 +1,6 @@
-# Conversion Tools
+# Review based SR_Dataset
 
-- Review based SR _ Dataset
-    - using RecBole_RecDatasets
+- using RecBole_RecDatasets
  
 - Command
     - python conversion_tool/run.py --convert_inter
